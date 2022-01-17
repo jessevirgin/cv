@@ -33,6 +33,7 @@
     text-decoration: none;
     text-align: left;
     color: rgb(92, 83, 83);
+    transition: 0.2s linear;
     }
     a:hover {
     color: darkred;
